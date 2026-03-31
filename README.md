@@ -2,7 +2,7 @@
 
 ---
 ## This includes files for Project no. 2:
-- [Gantt Chart]()
+- [Gantt Chart](CIVE 202 Project 3 Final Gantt Chart.pdf)
 - [Timesheet]()
 - [Scope of Work]()
 - [Annotated Code Document]()

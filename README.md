@@ -2,11 +2,11 @@
 
 ---
 ## This includes files for Project no. 2:
-- [Gantt Chart](CIVE 202 Project 3 Final Gantt Chart.pdf)
-- [Timesheet]()
+- [Gantt Chart](https://github.com/Aperrotto/Project-3/blob/main/CIVE%20202%20Project%203%20Final%20Gantt%20Chart.pdf)
+- [Timesheet](https://github.com/Aperrotto/Project-3/blob/main/CIVE%20202%20Project%203%20Final%20Timesheet.pdf)
 - [Scope of Work]()
-- [Annotated Code Document]()
-- [Written Report]()
+- [Annotated Code Document](https://github.com/Aperrotto/Project-3/blob/main/Project%20%233%20ACD.pdf)
+- [Written Report](https://github.com/Aperrotto/Project-3/blob/main/CIVE%20202%20Project%203%20Report.pdf)
 
 ---
 ## Overview

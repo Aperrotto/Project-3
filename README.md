@@ -4,7 +4,7 @@
 ## This includes files for Project no. 2:
 - [Gantt Chart](https://github.com/Aperrotto/Project-3/blob/main/CIVE%20202%20Project%203%20Final%20Gantt%20Chart.pdf)
 - [Timesheet](https://github.com/Aperrotto/Project-3/blob/main/CIVE%20202%20Project%203%20Final%20Timesheet.pdf)
-- [Scope of Work]()
+- [Scope of Work](https://github.com/Aperrotto/Project-3/blob/main/CIVE%20202%20Project%203%20SOW.pdf)
 - [Annotated Code Document](https://github.com/Aperrotto/Project-3/blob/main/Project%20%233%20ACD.pdf)
 - [Written Report](https://github.com/Aperrotto/Project-3/blob/main/CIVE%20202%20Project%203%20Report.pdf)
 

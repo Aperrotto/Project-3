@@ -10,7 +10,7 @@
 
 ---
 ## Overview
-- 
+- We analysed data from NHTS and NGSIM for the Federal Highway Administration. The goal of this project is to organize the data, create clear graphs using python, and complete a driving simulation using IDM. We tracked the time we spent on each task so our company can compare Python's effiecency with Excel. 
 
 
 

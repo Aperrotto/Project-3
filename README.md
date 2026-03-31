@@ -7,6 +7,8 @@
 - [Scope of Work](https://github.com/Aperrotto/Project-3/blob/main/CIVE%20202%20Project%203%20SOW.pdf)
 - [Annotated Code Document](https://github.com/Aperrotto/Project-3/blob/main/Project%20%233%20ACD.pdf)
 - [Written Report](https://github.com/Aperrotto/Project-3/blob/main/CIVE%20202%20Project%203%20Report.pdf)
+- [NGSIM Data](https://github.com/Aperrotto/Project-3/blob/main/NGSIM.csv)
+- [NHTS Data](https://github.com/Aperrotto/Project-3/blob/main/NHTS.csv)
 
 ---
 ## Overview

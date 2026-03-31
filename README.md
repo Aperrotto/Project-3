@@ -9,7 +9,7 @@
 - [Written Report](https://github.com/Aperrotto/Project-3/blob/main/CIVE%20202%20Project%203%20Report.pdf)
 - [NGSIM Data](https://github.com/Aperrotto/Project-3/blob/main/NGSIM.csv)
 - [NHTS Data](https://github.com/Aperrotto/Project-3/blob/main/NHTS.csv)
--[Python Code](https://github.com/Aperrotto/Project-3/blob/main/CIVE202_Spring2026_Group14_Project3_Python.ipynb)
+- [Python Code](https://github.com/Aperrotto/Project-3/blob/main/CIVE202_Spring2026_Group14_Project3_Python.ipynb)
 ---
 ## Overview
 - We analysed data from NHTS and NGSIM for the Federal Highway Administration. The goal of this project is to organize the data, create clear graphs using python, and complete a driving simulation using IDM. We tracked the time we spent on each task so our company can compare Python's effiecency with Excel. 
@@ -67,6 +67,18 @@
 
   
 ## Using The Code: 
-###Input
--Datasets
+### Inputs
+- Datasets
+- Variables (Speed, Acceleration, Gap Space, Trajectory Number)
+- Leader and follower data
 
+### Outputs
+- Bar Graph
+- Histogram
+- Box plot
+- Time series plots
+- Distribution Chart of Follower Acceleration
+- Comparison Line chart of follower speeds
+- Comparison Bar graph of Acceration distribution
+- Dot plot of acceleration vs speed
+- Trajectory charts

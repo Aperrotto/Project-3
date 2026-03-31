@@ -67,11 +67,14 @@
 
   
 ## Using The Code: 
+Begin by running the cells from top to bottom. Run the imports and function definitions. Input When prompted.
 ### Inputs
 - Datasets
 - Variables (Speed, Acceleration, Gap Space, Trajectory Number)
 - Leader and follower data
 
+
+Next, run the output cell. View outputs in the graphs produced by the program:
 ### Outputs
 - Bar Graph
 - Histogram

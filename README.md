@@ -47,7 +47,21 @@
 - we assessed the simulated and observed measurements against the performance measuure statistics
 
 ## Results and Analysis
+### NHTS Analysis
+- we found that SUVs and Pickup Trucks were the predominant vehicles using the bar graph
+- the histogram shows that the majority of the dataset exist in the middle-income range
+- the boxplot shows that median values are relatively uniform amon regions but factors sucha as proximity to other forms of transportation can affect the level of vehicle ownership
+  
+### NGSIM Analysis
+- we found a higher correlation for the speed of the lead vehicle with the following vehicle
+- both vehicles demonstrate continuous fluctuation showing dynamic traffic conditions
+- the trajectory shows the average gap between 2 vehicles is approximately 23.6 meters
 
+### IDM Sim results
+- the simulated follower speed and position values were nearly identical to observed follower data
+- the correlation between the simulated and observed follower speed was approximately .95
+- Overall speed RMSE values were approximately 1.22 for speed and 9.82 for position
+- The IDM's car acceleration correlation was only .22, so it doesn't accurately depict short term changes in acceleration.
 
   
 ## Using The Code: 
